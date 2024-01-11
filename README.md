@@ -18,10 +18,10 @@ I'm always excited to collaborate, learn, and grow with fellow developers. Feel 
 
 #### 📚 My Toolbox
 
-- 💻 Languages: Python, JavaScript, C, C++.
+- 💻 Languages: Python, JavaScript, C, C++,Java.
 - 🧰 Tools: Git, Docker, AWS, GitLab, Networking.
 - 🛢️ Databases: MySQL, PostgreSQL, MongoDB.
-- 🚀 Frameworks: ReactJS, Django.
+- 🚀 Frameworks: ReactJS, Flask, Django and Spring Boot.
 
 #### 🌐 Learn More
 

@@ -21,7 +21,7 @@ I'm always excited to collaborate, learn, and grow with fellow developers. Feel 
 - 💻 Languages: Python, JavaScript, C, C++,Java.
 - 🧰 Tools: Git, Docker, AWS, GitLab, Networking.
 - 🛢️ Databases: MySQL, PostgreSQL, MongoDB.
-- 🚀 Frameworks: ReactJS, Flask, Django and Spring Boot.
+- 🚀 Frameworks: ReactJS, Flask, Django.
 
 #### 🌐 Learn More
 
